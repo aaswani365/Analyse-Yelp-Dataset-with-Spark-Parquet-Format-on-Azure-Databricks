@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "yelp_dataset_pipeline",
 	"properties": {
 		"activities": [
 			{
