@@ -39,13 +39,13 @@ A data pipeline is a technique for transferring data from one system to another.
 
 -   Numbers of restaurants in Arizona state per city.
 
--   Broadcast Join: restaurants as per review ratings in Pheonix city.
+-   Broadcast Join: restaurants as per review ratings in Tucson city.
 
 -   Most rated Italian restaurant in Tucson.
 
  
 
-# Tech Stack
+# Tech Stack 🧑‍💻
 
 ➔ Language: PySpark
 
